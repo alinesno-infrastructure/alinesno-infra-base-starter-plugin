@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <groupId>com.alinesno.infra.common</groupId>
+        <artifactId>alinesno-infra-platform-parent</artifactId>
+        <version>1.0.0-SNAPSHOT</version>
+        <relativePath/> <!-- lookup parent from repository -->
+    </parent>
+    <packaging>pom</packaging>
+
+    <groupId>com.alinesno.infra.plugin</groupId>
+    <artifactId>alinesno-infra-plugin-parent</artifactId>
+    <version>${revision}</version>
+
+    <properties>
+        <revision>1.0.0-SNAPSHOT</revision>
+        <alinesno.infra.version>${revision}</alinesno.infra.version>
+    </properties>
+
+    <modules>
+        <!-- 插件列表 -->
+        <module>alinesno-plugin-backup</module>
+    </modules>
+
+</project>
