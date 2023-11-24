@@ -85,4 +85,4 @@ plugins:
 
 ## 其它
 
-- 无
+- 部分构建工具参考[dubbo](https://github.com/apache/dubbo)
