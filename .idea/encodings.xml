@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/alinesno-plugin-backup/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/alinesno-plugin-bbs/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/alinesno-plugin-crm/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/alinesno-plugin-dependencies/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/alinesno-plugin-dingtalk/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/alinesno-plugin-email/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/alinesno-plugin-files/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/alinesno-plugin-flow/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/alinesno-plugin-gps/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/alinesno-plugin-pay/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/alinesno-plugin-qiniu/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/alinesno-plugin-report/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/alinesno-plugin-scheduler/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/alinesno-plugin-search/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/alinesno-plugin-security/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/alinesno-plugin-shop/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/alinesno-plugin-sms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/alinesno-plugin-storage/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/alinesno-plugin-wechat/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/alinesno-plugin-wps/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

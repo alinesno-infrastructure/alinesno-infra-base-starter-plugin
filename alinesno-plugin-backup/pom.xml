@@ -15,19 +15,13 @@
 
     <dependencies>
 
-        <!-- 公共的核心包_start -->
+        <!-- 核心包公共依赖_start -->
         <dependency>
-            <groupId>com.alinesno.infra.common</groupId>
-            <artifactId>alinesno-infra-common-core</artifactId>
-            <version>${alinesno.infra.version}</version>
+            <groupId>com.alinesno.infra.plugin</groupId>
+            <artifactId>alinesno-plugin-dependencies</artifactId>
+            <version>${revision}</version>
         </dependency>
-
-        <dependency>
-            <groupId>com.alinesno.infra.common</groupId>
-            <artifactId>alinesno-infra-common-web-api</artifactId>
-            <version>${alinesno.infra.version}</version>
-        </dependency>
-        <!-- 公共的核心包_end -->
+        <!-- 核心包公共依赖_end -->
 
     </dependencies>
 

@@ -1,0 +1,28 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <groupId>com.alinesno.infra.plugin</groupId>
+        <artifactId>alinesno-infra-plugin-parent</artifactId>
+        <version>${revision}</version>
+        <relativePath>../pom.xml</relativePath>
+    </parent>
+
+    <artifactId>alinesno-plugin-security</artifactId>
+    <packaging>jar</packaging>
+
+    <dependencies>
+
+        <!-- 核心包公共依赖_start -->
+        <dependency>
+            <groupId>com.alinesno.infra.plugin</groupId>
+            <artifactId>alinesno-plugin-dependencies</artifactId>
+            <version>${revision}</version>
+        </dependency>
+        <!-- 核心包公共依赖_end -->
+
+    </dependencies>
+
+</project>

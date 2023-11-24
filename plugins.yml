@@ -1,0 +1,192 @@
+plugins:
+    alinesno-plugin-backup:
+        type: function
+        icon: #(图片base64)
+        classes: 001 # 分类代码(从项目初始工程中获取)
+        info:
+            name: 备份插件  # 插件名称
+            desc: 提供数据备份功能，确保数据安全  # 插件描述
+        team:
+            name: AIP团队研发 # 团队信息
+
+    alinesno-plugin-bbs:
+        type: function
+        icon: #(图片base64)
+        classes: 001 # 分类代码(从项目初始工程中获取)
+        info:
+            name: 论坛插件  # 插件名称
+            desc: 实现论坛功能，支持用户交流讨论  # 插件描述
+        team:
+            name: AIP团队研发 # 团队信息
+
+    alinesno-plugin-crm:
+        type: function
+        icon: #(图片base64)
+        classes: 001 # 分类代码(从项目初始工程中获取)
+        info:
+            name: CRM客户关系管理插件  # 插件名称
+            desc: 提供客户关系管理功能，便捷管理客户信息  # 插件描述
+        team:
+            name: AIP团队研发 # 团队信息
+
+    alinesno-plugin-dingtalk:
+        type: function
+        icon: #(图片base64)
+        classes: 001 # 分类代码(从项目初始工程中获取)
+        info:
+            name: 钉钉插件  # 插件名称
+            desc: 钉钉功能集成，支持与钉钉平台交互  # 插件描述
+        team:
+            name: AIP团队研发 # 团队信息
+
+    alinesno-plugin-email:
+        type: function
+        icon: #(图片base64)
+        classes: 001 # 分类代码(从项目初始工程中获取)
+        info:
+            name: 邮件插件  # 插件名称
+            desc: 提供邮件功能，支持邮件发送和接收  # 插件描述
+        team:
+            name: AIP团队研发 # 团队信息
+
+    alinesno-plugin-files:
+        type: function
+        icon: #(图片base64)
+        classes: 001 # 分类代码(从项目初始工程中获取)
+        info:
+            name: 文件管理插件  # 插件名称
+            desc: 提供文件管理功能，方便文件存储和管理  # 插件描述
+        team:
+            name: AIP团队研发 # 团队信息
+
+    alinesno-plugin-flow:
+        type: function
+        icon: #(图片base64)
+        classes: 001 # 分类代码(从项目初始工程中获取)
+        info:
+            name: 工作流插件  # 插件名称
+            desc: 实现工作流功能，支持流程管理和执行  # 插件描述
+        team:
+            name: AIP团队研发 # 团队信息
+
+    alinesno-plugin-gps:
+        type: function
+        icon: #(图片base64)
+        classes: 001 # 分类代码(从项目初始工程中获取)
+        info:
+            name: GPS定位插件  # 插件名称
+            desc: 提供GPS定位功能，用于位置信息获取  # 插件描述
+        team:
+            name: AIP团队研发 # 团队信息
+
+    alinesno-plugin-pay:
+        type: function
+        icon: #(图片base64)
+        classes: 001 # 分类代码(从项目初始工程中获取)
+        info:
+            name: 支付插件  # 插件名称
+            desc: 实现支付功能，支持各种支付方式  # 插件描述
+        team:
+            name: AIP团队研发 # 团队信息
+
+    alinesno-plugin-qiniu:
+        type: function
+        icon: #(图片base64)
+        classes: 001 # 分类代码(从项目初始工程中获取)
+        info:
+            name: 七牛云插件  # 插件名称
+            desc: 提供与七牛云存储服务集成的功能  # 插件描述
+        team:
+            name: AIP团队研发 # 团队信息
+
+    alinesno-plugin-report:
+        type: function
+        icon: #(图片base64)
+        classes: 001 # 分类代码(从项目初始工程中获取)
+        info:
+            name: 报表插件  # 插件名称
+            desc: 实现报表生成和管理功能  # 插件描述
+        team:
+            name: AIP团队研发 # 团队信息
+
+    alinesno-plugin-scheduler:
+        type: function
+        icon: #(图片base64)
+        classes: 001 # 分类代码(从项目初始工程中获取)
+        info:
+            name: 调度器插件  # 插件名称
+            desc: 提供任务调度和管理功能  # 插件描述
+        team:
+            name: AIP团队研发 # 团队信息
+
+    alinesno-plugin-search:
+        type: function
+        icon: #(图片base64)
+        classes: 001 # 分类代码(从项目初始工程中获取)
+        info:
+            name: 搜索插件  # 插件名称
+            desc: 实现搜索功能，支持数据搜索和查询  # 插件描述
+        team:
+            name: AIP团队研发 # 团队信息
+
+    alinesno-plugin-security:
+        type: function
+        icon: #(图片base64)
+        classes: 001 # 分类代码(从项目初始工程中获取)
+        info:
+            name: 安全插件  # 插件名称
+            desc: 提供安全管理和权限控制功能  # 插件描述
+        team:
+            name: AIP团队研发 # 团队信息
+
+    alinesno-plugin-shop:
+        type: function
+        icon: #(图片base64)
+        classes: 001 # 分类代码(从项目初始工程中获取)
+        info:
+            name: 商店插件  # 插件名称
+            desc: 提供电子商务功能，支持在线购物  # 插件描述
+        team:
+            name: AIP团队研发 # 团队信息
+
+    alinesno-plugin-sms:
+        type: function
+        icon: #(图片base64)
+        classes: 001 # 分类代码(从项目初始工程中获取)
+        info:
+            name: 短信插件  # 插件名称
+            desc: 提供短信发送和接收功能  # 插件描述
+        team:
+            name: AIP团队研发 # 团队信息
+
+    alinesno-plugin-storage:
+        type: function
+        icon: #(图片base64)
+        classes: 001 # 分类代码(从项目初始工程中获取)
+        info:
+            name: 存储插件  # 插件名称
+            desc: 提供存储服务功能，方便数据存储和管理  # 插件描述
+        team:
+            name: AIP团队研发 # 团队信息
+
+    alinesno-plugin-wechat:
+        type: function
+        icon: #(图片base64)
+        classes: 001 # 分类代码(从项目初始工程中获取)
+        info:
+            name: 微信插件  # 插件名称
+            desc: 实现与微信平台集成的功能  # 插件描述
+        team:
+            name: AIP团队研发 # 团队信息
+
+    alinesno-plugin-wps:
+        type: function
+        icon: #(图片base64)
+        classes: 001 # 分类代码(从项目初始工程中获取)
+        info:
+            name: WPS插件  # 插件名称
+            desc: 提供与WPS Office集成的功能  # 插件描述
+        team:
+            name: AIP团队研发 # 团队信息
+
+

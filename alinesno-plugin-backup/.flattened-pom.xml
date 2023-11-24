@@ -19,14 +19,9 @@
   </licenses>
   <dependencies>
     <dependency>
-      <groupId>com.alinesno.infra.common</groupId>
-      <artifactId>alinesno-infra-common-core</artifactId>
-      <version>${alinesno.infra.version}</version>
-    </dependency>
-    <dependency>
-      <groupId>com.alinesno.infra.common</groupId>
-      <artifactId>alinesno-infra-common-web-api</artifactId>
-      <version>${alinesno.infra.version}</version>
+      <groupId>com.alinesno.infra.plugin</groupId>
+      <artifactId>alinesno-plugin-dependencies</artifactId>
+      <version>${revision}</version>
     </dependency>
   </dependencies>
 </project>

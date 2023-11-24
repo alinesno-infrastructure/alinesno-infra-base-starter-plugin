@@ -17,12 +17,34 @@
 
     <properties>
         <revision>1.0.0-SNAPSHOT</revision>
-        <alinesno.infra.version>${revision}</alinesno.infra.version>
+        <alinesno.infra.version>1.0.0-SNAPSHOT</alinesno.infra.version>
     </properties>
 
     <modules>
+        <!-- 公共依赖 -->
+        <module>alinesno-plugin-dependencies</module>
+
         <!-- 插件列表 -->
         <module>alinesno-plugin-backup</module>
+        <module>alinesno-plugin-bbs</module>
+        <module>alinesno-plugin-crm</module>
+        <module>alinesno-plugin-dingtalk</module>
+        <module>alinesno-plugin-email</module>
+        <module>alinesno-plugin-files</module>
+        <module>alinesno-plugin-flow</module>
+        <module>alinesno-plugin-gps</module>
+        <module>alinesno-plugin-pay</module>
+        <module>alinesno-plugin-qiniu</module>
+        <module>alinesno-plugin-report</module>
+        <module>alinesno-plugin-scheduler</module>
+        <module>alinesno-plugin-search</module>
+        <module>alinesno-plugin-security</module>
+        <module>alinesno-plugin-shop</module>
+        <module>alinesno-plugin-sms</module>
+        <module>alinesno-plugin-storage</module>
+        <module>alinesno-plugin-wechat</module>
+        <module>alinesno-plugin-wps</module>
+
     </modules>
 
 </project>
