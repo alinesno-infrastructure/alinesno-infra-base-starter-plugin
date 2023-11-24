@@ -45,6 +45,9 @@
         <module>alinesno-plugin-wechat</module>
         <module>alinesno-plugin-wps</module>
 
+        <!-- demo工程 -->
+        <module>demo-plugin</module>
+
     </modules>
 
 </project>
